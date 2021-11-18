@@ -1,4 +1,4 @@
-# PUBG 1.6 ESP Hack for Emulator (C++ Source Code)
+# PUBG 1.7 ESP Hack for Emulator (C++ Source Code)
 
 PUBG ESP Hack for Emulator using C++ code.\
 Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
@@ -11,14 +11,14 @@ Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 
 YouTube Video ( [https://www.youtube.com/watch?v=e4uD5H0F_YY](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH) )
 
-[![PUBG 1.6 Hack : PUBG Cororna Hack ببجي كورونا هاك](https://img.youtube.com/vi/e4uD5H0F_YY/0.jpg)](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "PUBG 1.6 Hack : PUBG Cororna Hack ببجي كورونا هاك")
+[![PUBG 1.7 Hack : PUBG Cororna Hack ببجي كورونا هاك](https://img.youtube.com/vi/e4uD5H0F_YY/0.jpg)](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "PUBG 1.7 Hack : PUBG Cororna Hack ببجي كورونا هاك")
 
 ## Tutorial
 YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH](https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH) )
 
 | # | Video | Title |
 | --- | --- | --- |
-| 1 | [![1- PUBG 1.6 Hack C++ (Open Source), Preparing Application](https://img.youtube.com/vi/mrmcgHi0ePM/default.jpg)](https://www.youtube.com/watch?v=mrmcgHi0ePM&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "1- PUBG 1.6 Hack C++ (Open Source), Preparing Application") | PUBG 1.6 Hack C++ (Open Source), Preparing Application |
+| 1 | [![1- PUBG 1.7 Hack C++ (Open Source), Preparing Application](https://img.youtube.com/vi/mrmcgHi0ePM/default.jpg)](https://www.youtube.com/watch?v=mrmcgHi0ePM&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "1- PUBG 1.7 Hack C++ (Open Source), Preparing Application") | PUBG 1.7 Hack C++ (Open Source), Preparing Application |
 | 2 | [![2- Working With SFML Library (Draw Line)](https://img.youtube.com/vi/Hkdrlz2t9Cc/default.jpg)](https://www.youtube.com/watch?v=Hkdrlz2t9Cc&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "2- Working With SFML Library (Draw Line)") | Working With SFML Library (Draw Line) |
 | 3 | [![3- SFML Draw Lines, Circles and Load Font](https://img.youtube.com/vi/tBmlG7-4PQo/default.jpg)](https://www.youtube.com/watch?v=tBmlG7-4PQo&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "3- SFML Draw Lines, Circles and Load Font") | SFML Draw Lines, Circles and Load Font |
 | 4 | [![4- SFML Draw Text and Rectangle and their origins and backgrounds](https://img.youtube.com/vi/vr2W7Vtk8NM/default.jpg)](https://www.youtube.com/watch?v=vr2W7Vtk8NM&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "4- SFML Draw Text and Rectangle and their origins and backgrounds") | SFML Draw Text and Rectangle and their origins and backgrounds |
@@ -28,6 +28,7 @@ YouTube Playlist ( [https://www.youtube.com/watch?v=e4uD5H0F_YY&list=PLYIsIqzOy8
 | 8 | [![8- Draw All Items](https://img.youtube.com/vi/3sFRUL5IVZU/default.jpg)](https://www.youtube.com/watch?v=3sFRUL5IVZU&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "8- Draw All Items") | Draw All Items |
 | 9 | [![9- Draw Player Line and Info](https://img.youtube.com/vi/2GoG9du_YmA/default.jpg)](https://www.youtube.com/watch?v=2GoG9du_YmA&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "9- Draw Player Line and Info") | Draw Player Line and Info |
 | 10 | [![10- Draw Player Bone and Skeleton](https://img.youtube.com/vi/EpG6rbjDm4g/default.jpg)](https://www.youtube.com/watch?v=EpG6rbjDm4g&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "10- Draw Player Bone and Skeleton") | Draw Player Bone and Skeleton |
+| 11 | [![11- PUBG 1.7 offsets for emulator](https://img.youtube.com/vi/wggMemBSvkI/default.jpg)](https://www.youtube.com/watch?v=wggMemBSvkI&list=PLYIsIqzOy8MHWEfZCBlRsEeP_yi7kpsbH "11- PUBG 1.7 offsets for emulator") | PUBG 1.7 offsets for emulator |
 
 ## About
 * This is for educational purposes only and I don't encorage using hacking
