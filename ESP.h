@@ -21,7 +21,7 @@ public:
 	DWORD ofTmpEntityAddvId{ 16 };
 	int ofEntityWorld = 336;
 	int ofPosition = 352;
-	int ofStatus = 924;
+	int ofStatus = 956;
 	int ofTeamId = 1648;
 	int ofRobot = 1768;
 	int ofPlayerNameAdd = 1608;
