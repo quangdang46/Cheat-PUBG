@@ -11,7 +11,7 @@ Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 
 Preview Video ( [https://mega.nz/file/OOgXTIaB#Gy_KWGW3uDknTaAq01F9IMYPSXlrV7eFYJMiT18_ys8](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA) )
 
-[![PUBG 1.7 Hack : PUBG Cororna Hack ببجي كورونا هاك](https://img.youtube.com/vi/e4uD5H0F_YY/0.jpg)](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA "PUBG 1.7 Hack : PUBG Cororna Hack ببجي كورونا هاك")
+[![PUBG 1.7 Hack : PUBG Cororna Hack ببجي كورونا هاك](./resources/thumbnail.jpg)](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA "PUBG 1.7 Hack : PUBG Cororna Hack ببجي كورونا هاك")
 
 ## Tutorial
 Playlist ( [https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA) )
