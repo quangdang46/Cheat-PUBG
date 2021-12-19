@@ -18,17 +18,17 @@ Playlist ( [https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA](https://mega
 
 | # | Video | Title |
 | --- | --- | --- |
-| 1 | [![1- PUBG 1.7 Hack C++ (Open Source), Preparing Application](https://img.youtube.com/vi/mrmcgHi0ePM/default.jpg)](https://mega.nz/file/rD4jRQjK#G9kQ005r1w_MmdYXLecgMwzvIShIK7ul2EdheUiZdc0 "1- PUBG 1.7 Hack C++ (Open Source), Preparing Application") | PUBG 1.7 Hack C++ (Open Source), Preparing Application |
-| 2 | [![2- Working With SFML Library (Draw Line)](https://img.youtube.com/vi/Hkdrlz2t9Cc/default.jpg)](https://mega.nz/file/yXg0lDQB#ujSYSu0CfLkgHPTrGBonOtak-2SlvzV9JSozMepbzyU "2- Working With SFML Library (Draw Line)") | Working With SFML Library (Draw Line) |
-| 3 | [![3- SFML Draw Lines, Circles and Load Font](https://img.youtube.com/vi/tBmlG7-4PQo/default.jpg)](https://mega.nz/file/na4kRboJ#hSIo9Jp4th0F0sLpG8myEQR-GBRY0MsLFWreWyqtl-Q "3- SFML Draw Lines, Circles and Load Font") | SFML Draw Lines, Circles and Load Font |
-| 4 | [![4- SFML Draw Text and Rectangle and their origins and backgrounds](https://img.youtube.com/vi/vr2W7Vtk8NM/default.jpg)](https://mega.nz/file/qLxF3CDD#fViIyH3DmuhP-doJP2DTvaYSNmChsLICcw_sSpvyRqY "4- SFML Draw Text and Rectangle and their origins and backgrounds") | SFML Draw Text and Rectangle and their origins and backgrounds |
-| 5 | [![5- SFML Load and Play Sound](https://img.youtube.com/vi/0y-qjlnWowU/default.jpg)](https://mega.nz/file/XKpE1RwK#jJEEaUPWYySQq2K8WRoTSfMHUZKeS4vFYE8WuqbybCc "5- SFML Load and Play Sound") | SFML Load and Play Sound |
-| 6 | [![6- Memory Manager (Install and Connect to KProcessHacker Driver)](https://img.youtube.com/vi/SZUocHyjn2k/default.jpg)](https://mega.nz/file/nO4nDSQD#fDrcaWLZHt1wxW3frYVPWP8MDefvENuAR9X9tmd7kD8 "6- Memory Manager (Install and Connect to KProcessHacker Driver)") | Memory Manager (Install and Connect to KProcessHacker Driver) |
-| 7 | [![7- View Matrix and Scan Entity List](https://img.youtube.com/vi/ZMF5mHmHkDI/default.jpg)](https://mega.nz/file/Ge5lyarR#Rv7cCMeqAouHCgAcy7iJPc3EPO_DBeRCknK4kv590e4 "7- View Matrix and Scan Entity List") | View Matrix and Scan Entity List |
-| 8 | [![8- Draw All Items](https://img.youtube.com/vi/3sFRUL5IVZU/default.jpg)](https://mega.nz/file/KfggQD4a#N6EeCMukv7KZbVz4meoyfHzu7ge3JgqMGeXbD0L0KiM "8- Draw All Items") | Draw All Items |
-| 9 | [![9- Draw Player Line and Info](https://img.youtube.com/vi/2GoG9du_YmA/default.jpg)](https://mega.nz/file/bSwUlbZR#xkCyU1Ngvg1iadePjHqCENeHDM2oVVKt18FPM0KudA4 "9- Draw Player Line and Info") | Draw Player Line and Info |
-| 10 | [![10- Draw Player Bone and Skeleton](https://img.youtube.com/vi/EpG6rbjDm4g/default.jpg)](https://mega.nz/file/bHwwyRrC#yIIDDh1biUrwClTCQj4bfr-m-Bjgb4g3EeO1-XOUmMw "10- Draw Player Bone and Skeleton") | Draw Player Bone and Skeleton |
-| 11 | [![11- PUBG 1.7 offsets for emulator](https://img.youtube.com/vi/wggMemBSvkI/default.jpg)](https://mega.nz/file/SC4HSChD#YCwsTsLURBCJ5dkPSIRhpaHQ45PGlGniMK_S3FZA_1g "11- PUBG 1.7 offsets for emulator") | PUBG 1.7 offsets for emulator |
+| 1 | [![1- PUBG 1.7 Hack C++ (Open Source), Preparing Application](./resources/1.jpg)](https://mega.nz/file/rD4jRQjK#G9kQ005r1w_MmdYXLecgMwzvIShIK7ul2EdheUiZdc0 "1- PUBG 1.7 Hack C++ (Open Source), Preparing Application") | PUBG 1.7 Hack C++ (Open Source), Preparing Application |
+| 2 | [![2- Working With SFML Library (Draw Line)](./resources/2.jpg)](https://mega.nz/file/yXg0lDQB#ujSYSu0CfLkgHPTrGBonOtak-2SlvzV9JSozMepbzyU "2- Working With SFML Library (Draw Line)") | Working With SFML Library (Draw Line) |
+| 3 | [![3- SFML Draw Lines, Circles and Load Font](./resources/3.jpg)](https://mega.nz/file/na4kRboJ#hSIo9Jp4th0F0sLpG8myEQR-GBRY0MsLFWreWyqtl-Q "3- SFML Draw Lines, Circles and Load Font") | SFML Draw Lines, Circles and Load Font |
+| 4 | [![4- SFML Draw Text and Rectangle and their origins and backgrounds](./resources/4.jpg)](https://mega.nz/file/qLxF3CDD#fViIyH3DmuhP-doJP2DTvaYSNmChsLICcw_sSpvyRqY "4- SFML Draw Text and Rectangle and their origins and backgrounds") | SFML Draw Text and Rectangle and their origins and backgrounds |
+| 5 | [![5- SFML Load and Play Sound](./resources/6.jpg)](https://mega.nz/file/XKpE1RwK#jJEEaUPWYySQq2K8WRoTSfMHUZKeS4vFYE8WuqbybCc "5- SFML Load and Play Sound") | SFML Load and Play Sound |
+| 6 | [![6- Memory Manager (Install and Connect to KProcessHacker Driver)](./resources/6.jpg)](https://mega.nz/file/nO4nDSQD#fDrcaWLZHt1wxW3frYVPWP8MDefvENuAR9X9tmd7kD8 "6- Memory Manager (Install and Connect to KProcessHacker Driver)") | Memory Manager (Install and Connect to KProcessHacker Driver) |
+| 7 | [![7- View Matrix and Scan Entity List](./resources/7.jpg)](https://mega.nz/file/Ge5lyarR#Rv7cCMeqAouHCgAcy7iJPc3EPO_DBeRCknK4kv590e4 "7- View Matrix and Scan Entity List") | View Matrix and Scan Entity List |
+| 8 | [![8- Draw All Items](./resources/8.jpg)](https://mega.nz/file/KfggQD4a#N6EeCMukv7KZbVz4meoyfHzu7ge3JgqMGeXbD0L0KiM "8- Draw All Items") | Draw All Items |
+| 9 | [![9- Draw Player Line and Info](./resources/9.jpg)](https://mega.nz/file/bSwUlbZR#xkCyU1Ngvg1iadePjHqCENeHDM2oVVKt18FPM0KudA4 "9- Draw Player Line and Info") | Draw Player Line and Info |
+| 10 | [![10- Draw Player Bone and Skeleton](./resources/10.jpg)](https://mega.nz/file/bHwwyRrC#yIIDDh1biUrwClTCQj4bfr-m-Bjgb4g3EeO1-XOUmMw "10- Draw Player Bone and Skeleton") | Draw Player Bone and Skeleton |
+| 11 | [![11- PUBG 1.7 offsets for emulator](./resources/11.jpg)](https://mega.nz/file/SC4HSChD#YCwsTsLURBCJ5dkPSIRhpaHQ45PGlGniMK_S3FZA_1g "11- PUBG 1.7 offsets for emulator") | PUBG 1.7 offsets for emulator |
 
 ## About
 * This is for educational purposes only and I don't encorage using hacking
