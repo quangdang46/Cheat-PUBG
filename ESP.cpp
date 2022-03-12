@@ -177,11 +177,11 @@ void ESP::init()
 	}
 	cout << "SUCCESS ...\n";
 	cout << "View world base is : " << viewWorldBase << "\n";
-	uWorld = viewWorldBase - ofUWorldMinus;
+	uWorld = viewWorldBase + ofUWorldMinus;
 	cout << "uWorld is : " << uWorld << "\n";
 	gNames = viewWorldBase - ofGNamesMinus;
 	cout << "gNames is : " << gNames << "\n";
-	tmpGName = g_pMemoryManager->dRead(gNames);
+	tmpGName = g_pMemoryManager->dRead(g_pMemoryManager->dRead(gNames) + 0x80);
 	cout << "tmpGName is : " << tmpGName << "\n";
 }
 
@@ -218,7 +218,7 @@ void ESP::getViewMatrix()
 
 void ESP::scanEntityList()
 {
-	uWorlds = g_pMemoryManager->dRead(uWorld);
+	uWorlds = g_pMemoryManager->dRead(g_pMemoryManager->dRead(uWorld));
 	uLevel = g_pMemoryManager->dRead(uWorlds + ofULevel);
 	gameInstance = g_pMemoryManager->dRead(uWorlds + ofGameInstance);
 
