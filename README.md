@@ -1,9 +1,10 @@
 # PUBG 1.8 ESP Hack for Emulator (C++ Source Code)
 
-------------------------------------------------------------
-**This is not the full protected version**
-**Contact us if you wish to get the full protected version**
-------------------------------------------------------------
+---
+|**\* This is not the full protected version**|
+| --- |
+|**\* Contact us if you wish to get the full protected version**|
+---
 
 PUBG ESP Hack for Emulator using C++ code.\
 Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
