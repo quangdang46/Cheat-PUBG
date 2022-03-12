@@ -8,28 +8,28 @@ public:
 	// Offsets
 	int ofSearchFrom{ 0X50000000 };
 	int ofSearchTo{ 0X60000000 };
-	int ofUWorldMinus{ 4832052 };
-	int ofGNamesMinus{ 1950892 };
+	int ofUWorldMinus{ 517980 }; // plus
+	int ofGNamesMinus{ 2904852 }; // minus
 	DWORD ofULevel{ 32 };
 	DWORD ofGameInstance{ 36 };
 	DWORD ofPlayerController{ 96 };
 	DWORD ofPlayerCarry{ 32 };
-	DWORD ofUMyObject{ 816 };
+	DWORD ofUMyObject{ 808 };
 	DWORD ofEntityEntry{ 112 };
 	DWORD ofEntityCount{ 120 };
 	DWORD ofEntityAddv{ 4 };
 	DWORD ofTmpEntityAddvId{ 16 };
-	int ofEntityWorld = 336;
-	int ofPosition = 352;
-	int ofStatus = 956;
+	int ofEntityWorld = 324;
+	int ofPosition = 336;
+	int ofStatus = 964;
 	int ofTeamId = 1648;
 	int ofRobot = 1768;
 	int ofPlayerNameAdd = 1608;
-	int ofStateInt = 2336;
+	int ofStateInt = 2704;
 	int ofHealth = 2364;
-	int ofMeshSkeleton = 800;
-	int ofActor = 336;
-	int ofBoneAddv = 1488;
+	int ofMeshSkeleton = 792;
+	int ofActor = 320;
+	int ofBoneAddv = 1496;
 
 	DWORD viewWorldBase = 0;
 	DWORD uWorld = 0;
