@@ -218,7 +218,7 @@ void ESP::getViewMatrix()
 
 void ESP::scanEntityList()
 {
-	uWorlds = g_pMemoryManager->dRead(g_pMemoryManager->dRead(uWorld));
+	uWorlds = g_pMemoryManager->dRead(g_pMemoryManager->dRead(uWorld) + 0x3C);
 	uLevel = g_pMemoryManager->dRead(uWorlds + ofULevel);
 	gameInstance = g_pMemoryManager->dRead(uWorlds + ofGameInstance);
 
