@@ -1,4 +1,4 @@
-# PUBG 1.9 ESP Hack for Emulator (C++ Source Code)
+# PUBG 2.0 ESP Hack for Emulator (C++ Source Code)
 
 ---
 |**\* This is not the full protected version**|
@@ -17,14 +17,14 @@ Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 
 Preview Video ( [https://mega.nz/file/OOgXTIaB#Gy_KWGW3uDknTaAq01F9IMYPSXlrV7eFYJMiT18_ys8](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA) )
 
-[![PUBG 1.9 Hack : PUBG Cororna Hack ببجي كورونا هاك](./resources/thumbnail.jpg)](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA "PUBG 1.9 Hack : PUBG Cororna Hack ببجي كورونا هاك")
+[![PUBG 2.0 Hack : PUBG Cororna Hack ببجي كورونا هاك](./resources/thumbnail.jpg)](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA "PUBG 2.0 Hack : PUBG Cororna Hack ببجي كورونا هاك")
 
 ## Tutorial
 Playlist ( [https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA) )
 
 | # | Video | Title |
 | --- | --- | --- |
-| 1 | [![1- PUBG 1.9 Hack C++ (Open Source), Preparing Application](./resources/1.jpg)](https://mega.nz/file/rD4jRQjK#G9kQ005r1w_MmdYXLecgMwzvIShIK7ul2EdheUiZdc0 "1- PUBG 1.9 Hack C++ (Open Source), Preparing Application") | PUBG 1.9 Hack C++ (Open Source), Preparing Application |
+| 1 | [![1- PUBG 2.0 Hack C++ (Open Source), Preparing Application](./resources/1.jpg)](https://mega.nz/file/rD4jRQjK#G9kQ005r1w_MmdYXLecgMwzvIShIK7ul2EdheUiZdc0 "1- PUBG 2.0 Hack C++ (Open Source), Preparing Application") | PUBG 2.0 Hack C++ (Open Source), Preparing Application |
 | 2 | [![2- Working With SFML Library (Draw Line)](./resources/2.jpg)](https://mega.nz/file/yXg0lDQB#ujSYSu0CfLkgHPTrGBonOtak-2SlvzV9JSozMepbzyU "2- Working With SFML Library (Draw Line)") | Working With SFML Library (Draw Line) |
 | 3 | [![3- SFML Draw Lines, Circles and Load Font](./resources/3.jpg)](https://mega.nz/file/na4kRboJ#hSIo9Jp4th0F0sLpG8myEQR-GBRY0MsLFWreWyqtl-Q "3- SFML Draw Lines, Circles and Load Font") | SFML Draw Lines, Circles and Load Font |
 | 4 | [![4- SFML Draw Text and Rectangle and their origins and backgrounds](./resources/4.jpg)](https://mega.nz/file/qLxF3CDD#fViIyH3DmuhP-doJP2DTvaYSNmChsLICcw_sSpvyRqY "4- SFML Draw Text and Rectangle and their origins and backgrounds") | SFML Draw Text and Rectangle and their origins and backgrounds |
