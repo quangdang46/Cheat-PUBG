@@ -3,13 +3,15 @@
 ---
 |**\* This is not the full protected version**|
 | --- |
+|**\* New 2.0 version is available on official Site**|
+| --- |
 |**\* Contact us if you wish to get the full protected version**|
 ---
 
 PUBG ESP Hack for Emulator using C++ code.\
 Player Position, Bones, Loots, Weapons, Vehicles, Boxes ... etc.
 
-* **official Site** : Zero One Billion ( [www.01000000000.com](https://www.01000000000.com) )
+* **Official Site** : Zero One Billion ( [www.01000000000.com](https://www.01000000000.com) )
 * **Auther** : Programmer / Ayman
 * **E-mail** : [info@01000000000.com](mailto:info@01000000000.com)
 * **Tutorial** : [Playlist](https://mega.nz/folder/aG4nwA7Q#GXPgPHtQopvsXzHJebNKsA)
