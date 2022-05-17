@@ -4,7 +4,6 @@
 |**\* This is not the full protected version**|
 | --- |
 |**\* New 2.0 version is available on official Site**|
-| --- |
 |**\* Contact us if you wish to get the full protected version**|
 ---
 
